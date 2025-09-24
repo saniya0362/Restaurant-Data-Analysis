@@ -4,7 +4,7 @@ What are the top 10 most ordered items?
 Which food category has the highest number of menu items?
 What is the average price of menu items per category?
 On which day of the week do we receive the most orders?
-What is the distribution of orders by time of day (morning, afternoon, evening, late night)?
+What is the distribution of orders by time of day (morning, afternoon, evening, night)?
 
 🟡 Intermediate Questions
 
@@ -25,4 +25,5 @@ Identify items that are “seasonal” (appear in orders only in certain months)
 Find the revenue contribution split between high-priced items (above avg. price) vs low-priced items.
 Which category shows the highest variability in daily sales?
 Calculate customer basket size (avg number of items per order).
+
 What are the peak ordering periods across the week? To identify when the restaurant receives the highest number of orders.
